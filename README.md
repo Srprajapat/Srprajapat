@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srprajapat
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning nodejs
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/seetaram-prajapat-602b4623a/
 - 😄 Pronouns: he
 - ⚡ Fun fact: busy
 
