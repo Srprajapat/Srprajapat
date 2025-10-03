@@ -58,9 +58,9 @@ I'm a passionate developer who loves technology, open-source, and continuous lea
 
 ## 🏆 Featured Projects
 
-- [Project 1](https://github.com/Srprajapat/Portfolio)
-- [Project 2](https://github.com/Srprajapat/Quiz-Generator)
-- [Project 3](https://github.com/Srprajapat/word-count)
+- [Project 1](https://github.com/Srprajapat/Portfolio) Personal Portfolio
+- [Project 2](https://github.com/Srprajapat/Quiz-Generator) Quiz Generator using GenAI
+- [Project 3](https://github.com/Srprajapat/word-count) Word Count Application using multi-thread
 
 ---
 
